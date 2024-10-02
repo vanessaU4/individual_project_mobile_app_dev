@@ -1,7 +1,11 @@
 import Flutter
 import UIKit
 
+<<<<<<< HEAD
 @UIApplicationMain
+=======
+@main
+>>>>>>> 2beb75f (first commit)
 @objc class AppDelegate: FlutterAppDelegate {
   override func application(
     _ application: UIApplication,
@@ -10,4 +14,8 @@ import UIKit
     GeneratedPluginRegistrant.register(with: self)
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2beb75f (first commit)
