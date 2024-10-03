@@ -1,0 +1,1 @@
+ C:\\Users\\Hp\\OneDrive\\Desktop\\flutter\\temp_conv\\flutter_application_1\\.dart_tool\\flutter_build\\bbf62b8c9511a4e21be811abe2064522\\native_assets.yaml: 
